@@ -15,7 +15,7 @@ public class InfluxdbTest {
     private static final String database = "influxdb-database";
 
     /**
-     * 数据报存策略
+     * 数据报存策略1
      */
     private static String   retentionPolicy = "default";
 
